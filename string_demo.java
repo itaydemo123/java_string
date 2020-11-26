@@ -7,7 +7,7 @@ public class Main
         // [type] [invented-name] = [value];
         int x = 1;
         // [type] [invented-name];
-        int y;
+        int y;//
 
         char lett = 'A';
         String first_name = "Danny";
